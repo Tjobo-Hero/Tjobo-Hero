@@ -1,4 +1,4 @@
-### Hi there my name is Tim and I'm a student of CODAM coding school 👋
+### Hi there my name is Tim and I'm a student at CODAM coding school 👋 ###
 
 - 🔭 I’m currently working on Philosophers for CODAM coding school
 - 🌱 I’m currently learning Pthreads and Mutexes
