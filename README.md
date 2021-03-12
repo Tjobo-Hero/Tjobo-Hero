@@ -1,7 +1,7 @@
 ### Hi there my name is Tim and I'm a student at CODAM coding school 👋 ###
 
 - 🔭 I’m currently working on Philosophers for CODAM coding school
-- 🌱 I’m currently learning Pthreads and Mutexes
+- 🌱 I’m currently learning Semaphores
 - 💬 Ask me about anything coding related
 - 📫 How to reach me: timvcitters@gmail.com
 
