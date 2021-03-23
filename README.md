@@ -1,7 +1,7 @@
 ### Hi there my name is Tim and I'm a student at CODAM coding school 👋 ###
 
-- 🔭 I’m currently working on Philosophers for CODAM coding school
-- 🌱 I’m currently learning Semaphores
+- 🔭 I’m currently working on ft_containers for CODAM coding school
+- 🌱 I’m currently learning  building my own containers (map, list, vector, etc.)
 - 💬 Ask me about anything coding related
 - 📫 How to reach me: timvcitters@gmail.com
 
