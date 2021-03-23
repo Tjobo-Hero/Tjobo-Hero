@@ -10,8 +10,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Philosophers for CODAM coding school
-- 🌱 I’m currently learning Pthreads and Mutexes
+- 🔭 I’m currently working on ft_containers for CODAM coding school
+- 🌱 I’m currently learning building my own containers (map, list, vector, etc.)
 - 💬 Ask me about anything coding related
 - 📫 How to reach me: timvcitters@gmail.com
 - 😄 Pronouns: ...
